@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Naimal Tabeer
 
-<!--
-**tabeernaimal-svg/tabeernaimal-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in **Artificial Intelligence and Machine Learning**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computer Science student
+* Interested in Artificial Intelligence and Machine Learning
+* Exploring NLP, semantic retrieval, and computer vision
+* Building practical machine learning projects with Python
+* Interested in research and graduate studies in AI/ML
+
+## Projects
+
+### AI Research Paper Assistant
+
+A semantic retrieval system for research papers using **Sentence Transformers, embeddings, and FAISS**.
+
+### Image Classification with Transfer Learning
+
+An image classification project using **PyTorch, ResNet18, and transfer learning** on CIFAR-10.
+
+### ML Model Comparison & Prediction
+
+A classification project comparing **Logistic Regression, Decision Tree, and Random Forest** using multiple evaluation metrics.
+
+## Technologies
+
+**Languages & Tools**
+
+* Python
+* Git & GitHub
+* Google Colab
+
+**Machine Learning**
+
+* Scikit-learn
+* PyTorch
+* Torchvision
+* Pandas
+* NumPy
+
+**AI / Deep Learning**
+
+* Natural Language Processing
+* Semantic Retrieval
+* Embeddings
+* Computer Vision
+* Transfer Learning
+
+## Current Focus
+
+Building a stronger foundation in **AI and Machine Learning** through practical projects, experimentation, and continued learning.
